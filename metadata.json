@@ -1,0 +1,6 @@
+{
+  "name": "Wallpapers & Fonts",
+  "description": "An elegant dashboard providing 1000 procedurally generated vector wallpapers and 1000 customizable typographic styles with live device managers, sandboxes, and offline capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
